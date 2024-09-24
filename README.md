@@ -1,5 +1,5 @@
 # jp_news_cls
-This project is based on RoBERTa to fine-tune and classify Japanese news using two different tokenizers.
+This project is based on RoBERT to fine-tune and classify Japanese news using two different tokenizers.
 
 ## Overview
 This is a simple comparative test using RoBERTa, and it's my first time using Hugging Face's Transformers library. The project serves as an easy introduction to building a model with a pre-trained model through Hugging Face.
